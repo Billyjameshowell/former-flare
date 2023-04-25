@@ -39,7 +39,13 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           ></path><circle cx="6" cy="18" r="2"></circle>
         </svg>
       </a>
-
+      <form action="https://submit-form.com/rQ7cIxvm">
+        <label for="name">Name</label>
+        <input type="text" id="name" name="name" placeholder="Name" required="" />
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" placeholder="Email" required="" />
+        <button type="submit">Subscribe</button>
+      </form>
       <p>
         I make house music everyday. Here I am documenting the various tutorials, plugins and songs I run across.
       </p>
@@ -52,6 +58,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
           SPOTIFY
         </LinkButton> to hear my music.
       </p>
+   
+      
       {
         // only display if at least one social link is enabled
         socialCount > 0 && (
