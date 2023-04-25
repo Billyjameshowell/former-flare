@@ -24,9 +24,9 @@ I love to use samples in my songs. Playing sample chops live on my SP-404 MK2 is
 I want to make an app that chops and randomly sequences samples then plays back those sequences for you. 
 
 ## The toolkit
--[VisualStudio Code] (https://code.visualstudio.com/) as my code editor
--React as my coding language. 
--[Chatgpt](https://chat.openai.com/chat) from [OpenAI](https://openai.com/) as my instructor
+- [VisualStudio Code] (https://code.visualstudio.com/) as my code editor
+- React as my coding language. 
+- [Chatgpt](https://chat.openai.com/chat) from [OpenAI](https://openai.com/) as my instructor
 
 
 
