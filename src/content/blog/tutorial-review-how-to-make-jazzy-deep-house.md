@@ -3,7 +3,7 @@ author: Luchini
 pubDatetime: 2023-04-18T14:20:53Z
 title: How to make jazzy deep house
 postSlug: how-to-make-jazzy-deep-house
-featured: true
+featured: false
 draft: true
 tags:
   - deep-house
