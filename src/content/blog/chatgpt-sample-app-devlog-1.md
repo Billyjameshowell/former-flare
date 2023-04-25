@@ -99,7 +99,8 @@ export default App;
 Now I've got to install and figure out this Dropzone package. Dropzone it turns out it what lets you upload a file to an app.
 
 So far, so good. I ask Chatgpt to add inputs for BPM and Key and it does that too. The app looks pretty nice!
-![screenshot of the app](/public/assets/sample-scraper-screenshot.png)
+![screenshot of the app](/assets/sample-scraper-screenshot.png)
+
 
 ## AI ADHD
 
