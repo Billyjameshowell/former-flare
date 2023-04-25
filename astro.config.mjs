@@ -5,11 +5,18 @@ import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import sitemap from "@astrojs/sitemap";
 import { SITE } from "./src/config";
+import partytown from "@astrojs/partytown";
 
 // https://astro.build/config
 export default defineConfig({
   site: SITE.website,
   integrations: [
+    partytown({
+      // Adds dataLayer.push as a forwarding-event.
+      config: {
+        forward: ["dataLayer.push"],
+      },
+    }),
     tailwind({
       config: {
         applyBaseStyles: false,
