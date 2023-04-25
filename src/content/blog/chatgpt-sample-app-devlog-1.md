@@ -1,7 +1,7 @@
 ---
 author: Luchini
 pubDatetime: 2023-04-25T14:20:53Z
-title: Devlog 1 - Can ChatGPT Chop Samples like Kanye?
+title: Devlog 1 - Teaching ChatGPT to Chop Samples like Kanye
 postSlug: chatgpt-sampler-devlog1
 featured: true
 draft: false
