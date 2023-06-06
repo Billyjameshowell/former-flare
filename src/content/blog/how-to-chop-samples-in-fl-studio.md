@@ -1,7 +1,7 @@
 ---
 author: Luchini
 pubDatetime: 2023-06-6T14:20:53Z
-title: 3 Ways to Chop Samples in FL Studio (2023)
+title: 2 Ways to Chop Samples in FL Studio (2023)
 postSlug: how-to-chop-samples-in-fl-studio
 featured: true
 draft: false
