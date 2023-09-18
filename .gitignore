@@ -27,3 +27,5 @@ pnpm-debug.log*
 
 # ssh key
 [D
+
+node_modules
